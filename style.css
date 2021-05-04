@@ -1,0 +1,6 @@
+#app{width: 100%; height: 800px; background-color: chocolate;}
+.line{background-color: blueviolet; height: 6px; width: 70px ; margin: 8px auto; }
+#game{width: 100%; height: 800px ; background-color: burlywood;}
+img{transition: transform .2s;height: 450px;width: 450px;}
+img:hover{transform: scale(0.9);}
+#dialogflow{width: 100%; height: 800px; background-color:coral;}
